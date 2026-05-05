@@ -29,7 +29,7 @@ Desenvolvedor em transição de carreira para a área de Tecnologia, com foco em
 </div>
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=HudsonCoelho&theme=darkhub&no-frame=true&row=1&column=7"/>
+  <img src="[https://github-profile-trophy.vercel.app/?username=](https://streak-stats.demolab.com/?user=)HudsonCoelho&theme=darkhub&no-frame=true&row=1&column=7"/>
 </div>
 
 ---
