@@ -16,14 +16,21 @@ Desenvolvedor em transição de carreira para a área de Tecnologia, com foco em
 ## ⭐ Alguns números do GitHub
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=HudsonCoelho&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HudsonCoelho&layout=compact&langs_count=7&theme=dark"/>
+
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=HudsonCoelho&show_icons=true&theme=dark&include_all_commits=true&count_private=true&hide_border=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HudsonCoelho&layout=compact&langs_count=7&theme=dark&hide_border=true"/>
+
 </div>
 
 <div align="center">
-  ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=HudsonCoelho&theme=dark)
-</div>
 
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=HudsonCoelho&theme=dark&hide_border=true"/>
+
+</div>iv>
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=HudsonCoelho&theme=darkhub&no-frame=true&row=1&column=7"/>
+</div>
 ---
 
 ## 📊 Atividade
