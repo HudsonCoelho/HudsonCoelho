@@ -17,8 +17,8 @@ Desenvolvedor em transição de carreira para a área de Tecnologia, com foco em
 ## ⭐ Alguns números do GitHub
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=HudsonCoelho&show_icons=true&theme=dark&include_all_commits=true&count_private=true&hide_border=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HudsonCoelho&layout=compact&langs_count=7&theme=dark&hide_border=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=HudsonCoelho&show_icons=true&theme=dark&include_all_commits=true&count_private=true&hide_border=true&cache_seconds=1800"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HudsonCoelho&layout=compact&langs_count=7&theme=dark&hide_border=true&hide=jupyter%20notebook&cache_seconds=1800"/>
 </div>
 
 <div align="center">
