@@ -11,6 +11,7 @@ Desenvolvedor em transição de carreira para a área de Tecnologia, com foco em
 ## 🚀 💻 Tecnologias e Ferramentas
 
 [![My Skills](https://skillicons.dev/icons?i=js,nodejs,html,css,py,postgres,mysql,git,vscode,figma)](https://skillicons.dev)
+
 ---
 
 ## ⭐ Alguns números do GitHub
@@ -25,13 +26,7 @@ Desenvolvedor em transição de carreira para a área de Tecnologia, com foco em
 </div>
 
 <div align="center">
-
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=HudsonCoelho&theme=dark&hide_border=true"/>
-
-</div>
-
-<div align="center">
-  <img src="[https://github-profile-trophy.vercel.app/?username=](https://streak-stats.demolab.com/?user=)HudsonCoelho&theme=darkhub&no-frame=true&row=1&column=7"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=HudsonCoelho&theme=darkhub&no-frame=true&row=1&column=7"/>
 </div>
 
 ---
