@@ -1,4 +1,4 @@
-# 👋 Olá, sou o Hudson! :D
+# 👋 Olá, sou o Hudson!
 
 Desenvolvedor em transição de carreira para a área de Tecnologia, com foco em Full-Stack (Python/JavaScript) e UX/UI Design. Minha trajetória no setor logístico como Expedidor consolidou competências em visão analítica, agilidade operacional e resolução de problemas complexos — fundamentos que hoje aplico no desenvolvimento de software e na criação de interfaces centradas no usuário. Atualmente, desenvolvo projetos práticos utilizando Figma, Python e SQL, buscando contribuir com soluções eficientes e escaláveis em minha primeira oportunidade no setor tech.
 
