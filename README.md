@@ -26,11 +26,12 @@ Desenvolvedor em transição de carreira para a área de Tecnologia, com foco em
 
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=HudsonCoelho&theme=dark&hide_border=true"/>
 
-</div>iv>
+</div>
 
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=HudsonCoelho&theme=darkhub&no-frame=true&row=1&column=7"/>
 </div>
+
 ---
 
 ## 📊 Atividade
